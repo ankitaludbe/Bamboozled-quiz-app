@@ -5,7 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const befBtn = document.querySelector(".btnbef");
   let scoreEl = document.querySelector(".score");
 
-  const apiKey = "OHFh9BwchK7D8lXzqFS6MnINWrZT8Ubif3ulUPNx";
+  const apiKey = "";
   const apiUrl =
     "https://quizapi.io/api/v1/questions?category=react&difficulty=Easy&limit=10";
 
